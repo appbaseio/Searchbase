@@ -27,7 +27,7 @@
         "webpack-node-externals": "1.7.2"
     },
     "dependencies": {
-        "@appbaseio/react-searchbox": "1.8.1",
+        "@appbaseio/react-searchbox": "1.9.0",
         "express": "4.17.1",
         "prop-types": "15.6.0",
         "react": "17.0.2",

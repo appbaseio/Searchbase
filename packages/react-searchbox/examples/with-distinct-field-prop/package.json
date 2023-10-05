@@ -6,11 +6,11 @@
     "private": true,
     "dependencies": {
         "prop-types": "^15.6.2",
-        "react": "^16.4.1",
-        "react-dom": "^16.4.1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "react-scripts": "^5.0.0",
         "react-paginate": "^6.5.0",
-        "react-scripts": "^1.1.4",
-        "@appbaseio/react-searchbox": "1.8.1"
+        "@appbaseio/react-searchbox": "1.9.0"
     },
     "scripts": {
         "start": "react-scripts start",

@@ -5,12 +5,12 @@
     "license": "MIT",
     "private": true,
     "dependencies": {
-        "@appbaseio/react-searchbox": "1.8.1",
+        "@appbaseio/react-searchbox": "1.9.0",
         "prop-types": "^15.6.2",
-        "react": "^16.4.1",
-        "react-dom": "^16.4.1",
+        "react": "^18.0.2",
+        "react-dom": "^18.0.2",
         "react-paginate": "^6.5.0",
-        "react-scripts": "^1.1.4"
+        "react-scripts": "^5.0.0"
     },
     "scripts": {
         "start": "react-scripts start",
@@ -21,5 +21,17 @@
     "devDependencies": {
         "@babel/core": "^7.6.2",
         "babel-loader": "^8.0.6"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
     }
 }
